@@ -2,7 +2,7 @@
     margin-bottom: 60px;
     background-color: #e7307a;
     opacity: 90%;
-    border-radius: 20%;
+    border-radius: 15%;
     background-image: url("images/dream-bg.png");
     box-shadow: 10px 10px 20px crimson;
 }
@@ -42,7 +42,7 @@ font-weight: 700;
 text-align: center;
 text-decoration: none;
 width: 50%;
-margin: 90px 10px 30px 600px;
+
 
 }
 
