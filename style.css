@@ -53,6 +53,18 @@ width: 50%;
     text-decoration: none;
 
 }
+
+.heart-hover:hover{
+
+    font-size: 50px;
+    cursor: -webkit-zoom-in;
+}
+
+.icon{
+    color: darkblue;
+}
+
+
 .audio{
     margin-top: 10px;
     text-align: center;
