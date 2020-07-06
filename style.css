@@ -3,13 +3,62 @@
     background-color: #e7307a;
     opacity: 90%;
     border-radius: 20%;
+    background-image: url("images/dream-bg.png");
+    box-shadow: 10px 10px 20px crimson;
 }
 
 body{
-
-    background-image: url("images/dream-bg.png");
+color: rgb(221, 147, 147);
     background-repeat: round;
 }
+
+h1{
+    color: crimson;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+font-family: 'Modak', cursive;
+font-family: 'Permanent Marker', cursive;
+}
+
+ h3{
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 10px;
+    font-family: 'Merienda One', cursive;
+    margin-bottom: 20px;
+
+}
+.link-button{
+text-decoration: none;
+
+background-image: linear-gradient(45deg, lightsalmon, rgb(228, 20, 124));
+padding: 10px 20px;
+border-radius: 5px;
+font-family: 'Merienda One', cursive;
+color: black;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 18px;
+font-weight: 700;
+text-align: center;
+text-decoration: none;
+width: 50%;
+margin: 90px 10px 30px 600px;
+
+}
+
+.link-button:hover{
+    font-size: 20px;
+    font-family: 'Modak', cursive;
+    font-family: 'Permanent Marker', cursive;
+    text-decoration: none;
+
+}
+.audio{
+    margin-top: 10px;
+    text-align: center;
+
+}
+
 .orange-bg{
     background-color: #fceae8;
     border-radius: 10px;
